@@ -2,6 +2,7 @@ flora-bouncinglights
 ====================
 
 accelerometer-driven lights for an outfit
+http://youtu.be/UlUB7JNH5_c
 
 Pulse train is a history of acceleration: negative = black, positive = color depends on acceleration, scaled to max in history. 
 The controller outputs a single train that covers the front and back LED collections.
